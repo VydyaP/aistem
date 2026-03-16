@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+sentence-transformers
+faiss-cpu
+sympy
+httpx
+python-dotenv
+pdfplumber
+nltk
+numpy
+requests
+matplotlib
+pillow
+pyvista
